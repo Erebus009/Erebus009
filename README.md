@@ -1,5 +1,5 @@
 - � Hi, I’m @Erebus009(travis puryear)
-- 👀 I’m interested in robotics and funcational usage of coding provide help to people and communities. 
+- 👀 I’m interested in robotics and funcational usage of coding to provide helpful purpose for people and communities. 
 - 🌱 I’m currently learning HTML,CSS,NODE.js,Javascript,REACT 
 
 
