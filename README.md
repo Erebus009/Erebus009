@@ -1,6 +1,7 @@
 - Hi, I’m @Travis Puryear
 - I’m interested in robotics and functional usage of coding to provide helpful purpose for people and communities. 
-- I’m currently learning CSS, NODE.js, Javascript, REACT, Python. 
+- I’m currently learning the basics HTML,CSS,Javascript. 
+- My goals are to return to school to get a Computer Science Degree while working in the tech field. 
 
 
 <!---
