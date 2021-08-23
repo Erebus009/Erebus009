@@ -1,6 +1,6 @@
 - Hi, I’m @Travis Puryear
 - I’m interested in robotics and functional usage of coding to provide helpful purpose for people and communities. 
-- I’m currently learning NODE.js, Javascript, REACT, Python. 
+- I’m currently learning CSS, NODE.js, Javascript, REACT, Python. 
 
 
 <!---
