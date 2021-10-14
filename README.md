@@ -2,7 +2,7 @@
 
 - I’m interested in robotics and functional usage of coding to provide helpful purpose for people and communities. 
 
-- I’m currently learning the basics of Javascript. Before I begin frameworks of Angular, React.js, (I know it's all front-end but got to start somewhere.)
+- I’m currently learning the basics of Javascript. Before I begin frameworks of Angular, React.js, 
 
 - As I gain more information and related skills I'll update with the appropriate steps towards my goal in my learning process. 
 
