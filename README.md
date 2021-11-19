@@ -7,7 +7,7 @@
 
  
 
-### Currently learning and implementing the fundamentals of these languages and databases.
+### Currently learning an implementing the fundamentals of these languages and databases.
    <img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/office/40/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 ## Next I wish to learn 
