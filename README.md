@@ -13,7 +13,7 @@
 ## Next I wish to learn 
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
-### My intrests include music,robotics, and functional usage of coding to provide helpful purpose for people and communities. 
+### My intrests include robotics and functional usage of coding to provide helpful purpose for people and communities. 
 
 As I gain more information and related skills I'll update with the appropriate steps towards my goal. 
 
