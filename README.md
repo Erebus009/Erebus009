@@ -1,11 +1,6 @@
- # Hi, I’m Travis Puryear 🤘 
+ # Hi, I’m Travis Puryear
      
-     I wholeheartedly enjoy all aspects of computers.
-     an I'm always on the personal quest to find the world's most perfect burger joint.🍔
-     
-
-
- 
+    
 
 ### Currently learning an implementing the fundamentals of these languages and databases.
    <img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/office/40/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
